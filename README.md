@@ -1,8 +1,8 @@
 # admin-manage
 
-> 后台管理
+> 后台管理 (vue + elementUI)
 
-## Build Setup
+## 安装步骤
 
 ``` bash
 # install dependencies
